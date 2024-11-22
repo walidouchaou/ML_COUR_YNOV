@@ -11,6 +11,8 @@ pandas = "^2.2.3"
 jupyter = "^1.1.1"
 skleanr = "^4.2.9"
 scikit-learn = "^1.5.2"
+matplotlib = "^3.9.2"
+seaborn = "^0.13.2"
 
 
 [build-system]
